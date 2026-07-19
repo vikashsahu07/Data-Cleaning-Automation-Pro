@@ -44,12 +44,11 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 ### 📘 Jupyter Notebook
 
-[View Notebook](https://github.com/GauravDataAI/Data-Cleaning-Automation-Pro/blob/main/DataCleaningAutomationPro/Data_Cleaning_Automation_Pro.ipynb)
+[View Notebook]
 
 ### 📂 GitHub Repository
 
-[View Repository](https://github.com/GauravDataAI/Data-Cleaning-Automation-Pro)
-
+[View Repository]
 ---
 
 ## 🎓 Project Type
@@ -60,11 +59,11 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 ## 📌 Project Information
 
-**Prepared By:** Gaurav Kevat
+**Prepared By:** Vikash Sahu
 
-**Intern ID:** CITS34-46
+**Intern ID:** 
 
-**Course:** B.Tech (Lateral Entry) – CSE (Data Science)
+**Course:** B.Tech (Lateral Entry) – CSE 
 
 **University:** Jaypee University of Engineering and Technology (JUET), Guna
 
